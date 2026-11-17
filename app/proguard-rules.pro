@@ -1,0 +1,1 @@
+-keepclassmembers class kz.vtgk.app.MainActivity$Bridge { @android.webkit.JavascriptInterface <methods>; }
